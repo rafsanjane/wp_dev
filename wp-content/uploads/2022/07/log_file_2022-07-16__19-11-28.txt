@@ -1,0 +1,89 @@
+
+---Downloaded files---
+The import files for: Home V2 were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wp_dev
+Data file = D:\xampp\htdocs\wp_dev/wp-content/uploads/2022/07/demo-content-import-file_2022-07-16__19-11-28.xml
+Widget file = D:\xampp\htdocs\wp_dev/wp-content/uploads/2022/07/demo-widgets-import-file_2022-07-16__19-11-28.json
+Customizer file = D:\xampp\htdocs\wp_dev/wp-content/uploads/2022/07/demo-customizer-import-file_2022-07-16__19-11-28.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type landing-page
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import elementor_library_type section
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type landing-page
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import elementor_library_type section
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type landing-page
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import elementor_library_type section
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type landing-page
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import elementor_library_type section
+[WARNING] Failed to import "Default Kit": Invalid post type elementor_library
+[WARNING] Failed to import "Omnivus__Addons": Invalid post type elementor_library
+[WARNING] Failed to import "Price Monthly Tab": Invalid post type elementor_library
+[WARNING] Failed to import "Price Yearly Tab": Invalid post type elementor_library
+[WARNING] Failed to import "Omnivus Contact Us Section": Invalid post type elementor_library
+[WARNING] Failed to import "Hero 4 Backup": Invalid post type elementor_library
+[WARNING] Failed to import "Elementor Landing Page #603": Invalid post type e-landing-page
+[WARNING] Failed to import "blog-post": Invalid post type elementor_library
+[WARNING] Failed to import "blog-post-1": Invalid post type elementor_library
+[WARNING] Failed to import "service": Invalid post type elementor_library
+[WARNING] Failed to import "service-page": Invalid post type elementor_library
+[WARNING] Failed to import "grow-businness": Invalid post type elementor_library
+[WARNING] Failed to import "Elementor Landing Page #603": Invalid post type e-landing-page
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Imported
+about - About Me - Site does not support widget
+Recent Posts - Recent Posts - Imported
+post_with_thumb - Popular Feeds - Site does not support widget
+Categories - No Title - Imported
+social_profile - Never Miss News - Site does not support widget
+Tag Cloud - Popular Tags - Imported
+
+Footer Sidebar 1 : 
+
+Image - No Title - Imported
+Custom HTML - No Title - Imported
+
+Footer Sidebar 2 : 
+
+Navigation Menu - Pages - Imported
+
+Footer Sidebar 3 : 
+
+Custom HTML - Working Hours - Imported
+
+Footer Sidebar 4 : 
+
+mailchimp_subscribe - Get Daily Update - Site does not support widget
+social_profile - Follow Us On - Site does not support widget
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+Thank You! for installing demo ( Home V2 ).
